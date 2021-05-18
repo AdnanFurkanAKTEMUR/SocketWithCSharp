@@ -1,0 +1,12 @@
+C:\Users\adnan\source\repos\XClient\obj\Debug\XClient.csprojAssemblyReference.cache
+C:\Users\adnan\source\repos\XClient\obj\Debug\XClient.csproj.CoreCompileInputs.cache
+C:\Users\adnan\source\repos\XClient\bin\Debug\XClient.exe.config
+C:\Users\adnan\source\repos\XClient\bin\Debug\XClient.exe
+C:\Users\adnan\source\repos\XClient\bin\Debug\XClient.pdb
+C:\Users\adnan\source\repos\XClient\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\adnan\source\repos\XClient\bin\Debug\XServer.exe
+C:\Users\adnan\source\repos\XClient\bin\Debug\XServer.pdb
+C:\Users\adnan\source\repos\XClient\bin\Debug\XServer.exe.config
+C:\Users\adnan\source\repos\XClient\obj\Debug\XClient.csproj.CopyComplete
+C:\Users\adnan\source\repos\XClient\obj\Debug\XClient.exe
+C:\Users\adnan\source\repos\XClient\obj\Debug\XClient.pdb

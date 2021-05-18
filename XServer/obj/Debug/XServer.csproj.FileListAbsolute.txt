@@ -1,0 +1,9 @@
+C:\Users\adnan\source\repos\XServer\bin\Debug\XServer.exe.config
+C:\Users\adnan\source\repos\XServer\bin\Debug\XServer.exe
+C:\Users\adnan\source\repos\XServer\bin\Debug\XServer.pdb
+C:\Users\adnan\source\repos\XServer\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\adnan\source\repos\XServer\obj\Debug\XServer.csprojAssemblyReference.cache
+C:\Users\adnan\source\repos\XServer\obj\Debug\XServer.csproj.CoreCompileInputs.cache
+C:\Users\adnan\source\repos\XServer\obj\Debug\XServer.csproj.CopyComplete
+C:\Users\adnan\source\repos\XServer\obj\Debug\XServer.exe
+C:\Users\adnan\source\repos\XServer\obj\Debug\XServer.pdb
